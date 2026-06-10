@@ -59,6 +59,7 @@ python main.py --region EMEA --year 2023
 
 ## 3. Project Architecture
 
+```
 FP&A_MultiAgent_VarianceAnalysis/
 │
 ├── main.py
@@ -117,7 +118,7 @@ FP&A_MultiAgent_VarianceAnalysis/
 │       └── state.py
 │
 └── venv/
-
+```
 
 
 ---
